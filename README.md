@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @colinh15
+- 👋 Hi, I’m Colin
 - 👀 I’m interested in Python and C++ UI and game development.
 - 🌱 I’m currently learning Python through an online course.
 - 📫 If you want to reach me then send me a message on LinkedIn.
