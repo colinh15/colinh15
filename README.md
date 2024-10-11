@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Colin
-- 👀 I’m interested in Python and C++ UI and game development.
+- 👀 I’m interested in software development using Python and / or C++.
 - 🌱 I’m currently learning Python through an online course.
 - 📫 If you want to reach me then send me a message on LinkedIn.
 - 😄 Pronouns: he/him
